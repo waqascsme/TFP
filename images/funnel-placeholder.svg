@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" preserveAspectRatio="xMidYMid slice">
-  <rect width="800" height="800" fill="#101d36"/>
+  <rect width="800" height="800" fill="#1c1917"/>
   <g transform="translate(400 350)">
     <polygon points="-150,-140 150,-140 55,-25 55,110 -55,160 -55,-25"
-             fill="#7cc4e0" opacity="0.07"/>
+             fill="#e8c98f" opacity="0.07"/>
     <polygon points="-150,-140 150,-140 55,-25 55,110 -55,160 -55,-25"
-             fill="none" stroke="#9db4dc" stroke-width="10"
+             fill="none" stroke="#d9c9a8" stroke-width="10"
              stroke-linejoin="round" opacity="0.55"/>
-    <path d="M-70,-175 h140" stroke="#9db4dc" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
+    <path d="M-70,-175 h140" stroke="#d9c9a8" stroke-width="10" stroke-linecap="round" opacity="0.55"/>
   </g>
   <text x="400" y="640" font-family="Helvetica, Arial, sans-serif" font-size="40"
-        font-weight="600" fill="#9db4dc" opacity="0.7" text-anchor="middle">Funnel template preview</text>
+        font-weight="600" fill="#d9c9a8" opacity="0.7" text-anchor="middle">Funnel template preview</text>
 </svg>
